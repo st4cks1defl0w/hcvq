@@ -18,6 +18,13 @@
 
 </p>
 
+
+Follow setup instructions below; then run HC-VQ flavoured VQ-VAE with:
+```
+python -i run.py -c configs/vq_vae.yaml
+```
+
+
 **Update 22/12/2021:** Added support for PyTorch Lightning 1.5.6 version and cleaned up the code.
 
 A collection of Variational AutoEncoders (VAEs) implemented in pytorch with focus on reproducibility. The aim of this project is to provide
