@@ -1,6 +1,10 @@
 <h1 align="center">
-  <b>PyTorch VAE</b><br>
+  <b>HC-VQ Experiment</b><br>
 </h1>
+
+<h2 align="center">
+  <b>Homology-constrained vector quantization entropy regularizer</b><br>
+</h2>
 
 <p align="center">
       <a href="https://www.python.org/">
