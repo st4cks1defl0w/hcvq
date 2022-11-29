@@ -2,22 +2,10 @@
   <b>HC-VQ Experiment</b><br>
 </h1>
 
-<h2 align="center">
-  <b>Homology-constrained vector quantization entropy regularizer</b><br>
-</h2>
 
-<p align="center">
-      <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/Python-3.5-ff69b4.svg" /></a>
-       <a href= "https://pytorch.org/">
-        <img src="https://img.shields.io/badge/PyTorch-1.3-2BAF2B.svg" /></a>
-       <a href= "https://github.com/AntixK/PyTorch-VAE/blob/master/LICENSE.md">
-        <img src="https://img.shields.io/badge/license-Apache2.0-blue.svg" /></a>
-         <a href= "https://twitter.com/intent/tweet?text=PyTorch-VAE:%20Collection%20of%20VAE%20models%20in%20PyTorch.&url=https://github.com/AntixK/PyTorch-VAE">
-        <img src="https://img.shields.io/twitter/url/https/shields.io.svg?style=social" /></a>
+### Implementation of the paper [Homology-constrained vector quantization entropy regularizer](https://arxiv.org/abs/2211.14363)
 
-</p>
-
+[![arXiv](https://img.shields.io/badge/arXiv-2211.14363-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2211.14363)
 
 Follow setup instructions below; then run HC-VQ flavoured VQ-VAE with:
 ```
